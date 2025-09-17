@@ -438,9 +438,9 @@ if __name__ == "__main__":
             
             
         
-        
+        ############################################################################
         # Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
         # Add or remove the entry "EyeHealthReminder" with the command to run this script on startup
-        # Example command: "C:\Path\To\python.exe" "C:\Path\To\eye_reminder.py"
+        # Example command: "C:\Path\To\pythonw.exe" "C:\Path\To\eye_reminder.py"
         # Ensure paths
         ############################################################################
